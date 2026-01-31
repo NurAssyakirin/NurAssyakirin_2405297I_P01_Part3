@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Frontend Intern",
+        "company": "Tech Solutions",
+        "description": "Learn React and build user interfaces.",
+        "companyId": null,
+        "applicationDeadline": "2026-02-28T00:00:00Z",
+        "status": "Open",
+        "category": "IT",
+        "type": "Internship",
+        "salary": "SGD $1,000/month"
+    },
+    {
+        "title": "Backend Intern",
+        "company": "Data Corp",
+        "description": "Work with APIs and server logic.",
+        "category": "IT",
+        "type": "Internship",
+        "salary": "SGD $1,200/month"
+    },
+    {
+        "title": "Software Intern",
+        "company": "Google",
+        "description": "Working with Google teams on real-world projects.",
+        "category": "Finance",
+        "type": "Full-Time",
+        "salary": "SGD $5,000/month"
+    }
+]
