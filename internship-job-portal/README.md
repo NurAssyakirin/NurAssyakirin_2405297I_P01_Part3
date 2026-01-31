@@ -46,7 +46,25 @@ This feature is enforced:
 Swagger UI is implemented to test and document all back-end APIs.
 
 Access Swagger UI:
-http://localhost:5050/api-docs
+[http://localhost:5050/api-docs]
+
+## Additional Feature: Deployment & GitOps
+This project is deployed online using Git-based workflows (GitOps) to ensure continous integration and deployment.
+
+- Deployment: The application is hosted on a cloud platform (etc. Render or AWS) so that users can access it online.
+
+- GitOps Workflow: Changes to the respository are automatically tracked and deployed through a Git workflow:
+    - code is pushed to the main branch.
+    - automated deployment pipeline picks up changes and updates the hosted application.
+    - this is to ensure that the live version is always in sync with the respository.
+
+- Benefits:
+    - students and companies can access the app without having to run it locally.
+    - simplifies updates and bug fixes.
+    - demonstrate DevOps practices for full-stack applications.
+
+Live Application URL:
+[https://github.com/NurAssyakirin/NurAssyakirin_2405297I_P01_Part3.git]
 
 ## How to run the project
 
