@@ -64,6 +64,9 @@ This project is deployed online using Git-based workflows (GitOps) to ensure con
     - demonstrate DevOps practices for full-stack applications.
 
 Live Application URL:
+[https://studentmanagementsystem-nurassyakirin.onrender.com/](https://studentmanagementsystem-nurassyakirin.onrender.com/)
+
+GitHub URL:
 [https://github.com/NurAssyakirin/NurAssyakirin_2405297I_P01_Part3.git]
 
 ## How to run the project
